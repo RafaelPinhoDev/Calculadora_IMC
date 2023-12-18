@@ -1,0 +1,10 @@
+E:\Portifólio\Calculadora_de_IMC\bin\Debug\Calculadora_de_IMC.exe.config
+E:\Portifólio\Calculadora_de_IMC\bin\Debug\Calculadora_de_IMC.exe
+E:\Portifólio\Calculadora_de_IMC\bin\Debug\Calculadora_de_IMC.pdb
+E:\Portifólio\Calculadora_de_IMC\obj\Debug\Calculadora_de_IMC.csproj.AssemblyReference.cache
+E:\Portifólio\Calculadora_de_IMC\obj\Debug\Calculadora_de_IMC.Calculadora.resources
+E:\Portifólio\Calculadora_de_IMC\obj\Debug\Calculadora_de_IMC.Properties.Resources.resources
+E:\Portifólio\Calculadora_de_IMC\obj\Debug\Calculadora_de_IMC.csproj.GenerateResource.cache
+E:\Portifólio\Calculadora_de_IMC\obj\Debug\Calculadora_de_IMC.csproj.CoreCompileInputs.cache
+E:\Portifólio\Calculadora_de_IMC\obj\Debug\Calculadora_de_IMC.exe
+E:\Portifólio\Calculadora_de_IMC\obj\Debug\Calculadora_de_IMC.pdb
